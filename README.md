@@ -1,6 +1,6 @@
-# PEMutator
+# PEmutator
 
-**PEMutator** is a Python utility designed for **Portable Executable (PE) mutation** and **mass variant generation**. It allows to modify PE files (EXEs, DLLs) to alter their cryptographic hashes and structural signatures while attempting to maintain execution integrity.
+**PEmutator** is a Python utility designed for **Portable Executable (PE) mutation** and **mass variant generation**. It allows to modify PE files (EXEs, DLLs) to alter their cryptographic hashes and structural signatures while attempting to maintain execution integrity.
 
 The tool supports both **Single-File** precision adjustments and **Bulk Processing** for generating massive datasets of variants.
 
